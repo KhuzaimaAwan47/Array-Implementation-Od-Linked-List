@@ -9,4 +9,11 @@ I hope you can understand these concepts
 
 Credits goes to Khuzaima_awan_47........
 
-![alt text](https://raw.githubusercontent.com/abdulmoizshaikh/recipe-book/master/src/assets/images/Screenshot%20from%202021-03-31%2011-08-15.png?token=AGEPYAA3FGL4MHI7LZA75VLAMQJ5A)
+<style type="text/css">
+body
+{ 
+background-image: 
+url("images/blu.gif");
+background-repeat: repeat-y
+}
+</style>
