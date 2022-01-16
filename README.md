@@ -9,11 +9,4 @@ I hope you can understand these concepts
 
 Credits goes to Khuzaima_awan_47........
 
-<style type="text/css">
-body
-{ 
-background-image: 
-url("images/blu.gif");
-background-repeat: repeat-y
-}
-</style>
+![]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Fc-plus-plus-wallpapers&psig=AOvVaw2ZbQ5yBiyTDiKFvTru0s1c&ust=1642417797944000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLD9kqWRtvUCFQAAAAAdAAAAABAE
